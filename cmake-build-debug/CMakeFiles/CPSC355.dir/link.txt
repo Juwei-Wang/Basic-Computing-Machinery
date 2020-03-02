@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/CPSC355.dir/main.c.o CMakeFiles/CPSC355.dir/print.c.o  -o CPSC355 
